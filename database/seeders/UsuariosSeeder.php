@@ -25,7 +25,7 @@ class UsuariosSeeder extends Seeder
             'imagen' => null,
         ]);
 
-        Usuario::factory(30)->create();
+        Usuario::factory(10)->create();
        
     }
 }

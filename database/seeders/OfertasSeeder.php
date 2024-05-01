@@ -11,6 +11,6 @@ class OfertasSeeder extends Seeder
     
     public function run(): void
     {
-        Oferta::factory()->count(30)->create();
+        Oferta::factory()->count(10)->create();
     }
 }
