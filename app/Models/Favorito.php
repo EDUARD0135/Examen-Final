@@ -13,5 +13,7 @@ class Favorito extends Model
         return $this-> belongsTo(Usuario::class); 
     }
 
+    // SOY EXAGERADAMENTE UN PAPI RICO 
+
 }
 
