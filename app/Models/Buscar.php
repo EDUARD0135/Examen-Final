@@ -13,3 +13,5 @@ class Buscar extends Model
         return $this->belongsTo(Producto::class);
     }
 }
+
+///////////////////////////////////////////////////////////////////
