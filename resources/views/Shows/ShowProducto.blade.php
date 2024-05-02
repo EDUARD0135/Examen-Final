@@ -121,13 +121,13 @@
                                 <div class="mt-2" style="display: flex;">
                                     <form method="POST" action="{{ route('producto.like', $producto->id) }}">
                                         @csrf
-                                        <button type="submit" class="btn btn-success">Me Gusta
+                                        <button type="submit" class="btn btn-success">ta bueno
                                             ({{ $likes }})</button>
                                     </form>
 
                                     <form method="POST" action="{{ route('producto.dislike', $producto->id) }}" class="mx-2">
                                         @csrf
-                                        <button type="submit" class="btn btn-danger">No me Gusta
+                                        <button type="submit" class="btn btn-danger">ta malo
                                             ({{ $dislikes }})</button>
                                     </form>
 
