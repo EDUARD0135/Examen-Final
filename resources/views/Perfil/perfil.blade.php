@@ -182,6 +182,7 @@
 </style>
 
 <section class="custom-bg2">
+    
     <div class="container">
         @if (session('usuario'))
 
