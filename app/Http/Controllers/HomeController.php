@@ -28,3 +28,5 @@ class HomeController extends Controller
 }
 
 // hola buenas tardes mi nombre es Rousell, soy un guia explorador de la tribu 57 guarida 12
+
+// NO FUERA DE MI PROPIEDAD GUIRRO PENDEJO
