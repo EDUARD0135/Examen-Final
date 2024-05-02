@@ -26,3 +26,5 @@ class HomeController extends Controller
         return view('home');
     }
 }
+
+// hola buenas tardes mi nombre es Rousell, soy un guia explorador de la tribu 57 guarida 12
