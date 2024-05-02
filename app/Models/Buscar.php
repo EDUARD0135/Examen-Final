@@ -15,4 +15,4 @@ class Buscar extends Model
 }
 
 //// La cosa esta seria goku
-//// ajajajajjajajajajaja
+//// ajajajajjajajajajaja           555555555555555555555
